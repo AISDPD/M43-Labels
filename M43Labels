@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Mark43 Label Colors
-// @version      2024.01.25.001
+// @version      2024.01.25.002
 // @description  Color codes labels in Mark43 reports
 // @author       AISD Police IT
 // @include      /^https:\/\/.*\.mark43\.com\/.*
